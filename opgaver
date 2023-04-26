@@ -1,0 +1,25 @@
+Øvelse 1
+1. Opret en klasse "Person" med attributterne navn, alder og højde (alle som private).
+2. Tilføj konstruktører og getter- og setter-metoder for alle attributterne.
+3. Tilføj en metode "toString" for at kunne udskrive en person i et læsbart format.
+
+Øvelse 2
+1. Opret en klasse "Cirkel" med attributterne radius og farve.
+2. Tilføj en metode "beregnOmkreds" for at beregne omkredsen af cirklen og en metode "beregnAreal" for at beregne arealet af cirklen.
+3. Opret en testklasse, der instantierer et Cirkel-objekt, og udskriver dets omkreds og areal.
+
+Øvelse 3
+1. Opret en ArrayList af heltal (Integer) og tilføj 10 tilfældige tal til listen.
+2. Lav en metode "findMinOgMax" for at finde minimum og maksimum værdier i listen.
+3. Udskriv minimum, maksimum og gennemsnit af tal i listen.
+
+Øvelse 4
+1. Opret en klasse "Studerende" med attributterne navn, studienummer og en ArrayList af karakterer.
+2. Tilføj metoder til at tilføje karakterer og beregne gennemsnit af karaktererne.
+3. Opret et par Studerende-objekter, tilføj karakterer til dem og udskriv deres gennemsnitlige karakter.
+
+Øvelse 5
+1. Opret en enum-type "Ugedag" med alle ugedage (Mandag, Tirsdag, Onsdag, Torsdag, Fredag, Lørdag, Søndag).
+2. Opret en klasse "KalenderEvent" med attributterne titel, dato og ugedag.
+3. Opret en testklasse, der instantierer et par KalenderEvent-objekter og udskriver dem i et læsbart format.
+
