@@ -23,3 +23,24 @@
 2. Opret en klasse "KalenderEvent" med attributterne titel, dato og ugedag.
 3. Opret en testklasse, der instantierer et par KalenderEvent-objekter og udskriver dem i et læsbart format.
 
+
+Øvelse 6
+1. Opret en klasse "Bankkonto" med attributterne kontonummer og saldo.
+2. Tilføj metoder til at indsætte penge, trække penge og få saldoen.
+3. Opret en testklasse, der instantierer et par Bankkonto-objekter, foretager nogle ind- og udbetalinger og udskriver saldoen for hver konto.
+
+Øvelse 7
+1. Opret en klasse "Bog" med attributterne titel, forfatter og antalSider.
+2. Opret en ArrayList af Bog-objekter og tilføj et par bøger til listen.
+3. Skriv en metode "findBogMedFlestSider" for at finde bogen med flest sider og udskrive dens titel og forfatter.
+
+Øvelse 8
+1. Opret en klasse "Temperatur" med attributterne celsius og fahrenheit.
+2. Tilføj metoder til at konvertere mellem celsius og fahrenheit.
+3. Opret en testklasse, der instantierer et Temperatur-objekt, konverterer mellem celsius og fahrenheit og udskriver resultaterne.
+
+Øvelse 9
+1. Opret en klasse "Terning" med en attribut "antalSider".
+2. Tilføj en metode "kast" for at simulere et terningkast og returnere et tilfældigt tal mellem 1 og antalSider.
+3. Opret en testklasse, der instantierer et Terning-objekt og udfører et antal terningkast, mens den holder styr på og udskriver antallet af gange, hver side er blevet rullet.
+
