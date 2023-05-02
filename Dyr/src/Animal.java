@@ -4,6 +4,7 @@ public abstract class Animal {
     public int getHoursSlept() {
         return hoursSlept;
     }
+
     void sleep(int hours) {
         hoursSlept += hours;
         if(hoursSlept > 4) {

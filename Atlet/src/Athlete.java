@@ -25,7 +25,6 @@ public class Athlete {
         Athlete a2 = new Athlete("Børge", 22.7);
         Athlete a3 = new Athlete("Jens", 10.2);
 
-
         ranking.addAthlete(a1);
         ranking.addAthlete(a2);
         ranking.addAthlete(a3);

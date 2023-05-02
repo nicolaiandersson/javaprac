@@ -27,8 +27,6 @@ public class Student {
         s.grades.add(12);
         s.grades.add(12);
 
-
-
         System.out.println(s.averageGrade());
     }
 }

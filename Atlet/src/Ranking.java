@@ -9,6 +9,7 @@ public class Ranking {
     public Ranking() {
         ranking = new ArrayList<>();
     }
+
     public void addAthlete(Athlete athlete) {
         ranking.add(athlete);
     }

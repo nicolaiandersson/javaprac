@@ -43,7 +43,12 @@ public class Ticket {
         System.out.println(ticket);
         ticket.useTicket();
         System.out.println(ticket);
-        ticket.useTicket();
+
+        try {
+            ticket.useTicket();
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        }
     }
 
 }
