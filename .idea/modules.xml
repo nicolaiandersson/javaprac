@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/oev5/oev5.iml" filepath="$PROJECT_DIR$/oev5/oev5.iml" />
       <module fileurl="file://$PROJECT_DIR$/oev6/oev6.iml" filepath="$PROJECT_DIR$/oev6/oev6.iml" />
       <module fileurl="file://$PROJECT_DIR$/vm/vm.iml" filepath="$PROJECT_DIR$/vm/vm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xam/xam.iml" filepath="$PROJECT_DIR$/xam/xam.iml" />
     </modules>
   </component>
 </project>
